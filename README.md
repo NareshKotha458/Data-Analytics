@@ -1,2 +1,3 @@
 # Data-Analytics
-I wanted to share my knowledge to every one I thought this is the best platform to share 
+I am a Data Engineer interested in Big Data and Data Analytics with deep insight on machine Learning Algorithms
+
